@@ -1,1 +1,1 @@
-# Design-and-verification-of-32-Bit-MIPS [ With-implementation-on Terasic DE10-LiteFPGA-Board ]
+# Design-and-verification-of-32-Bits-MIPS [ With-implementation-on Terasic DE10-LiteFPGA-Board ]
